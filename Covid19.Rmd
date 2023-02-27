@@ -1,11 +1,4 @@
----
-title: "STA 3100 Programming with Data: Assignment 030"
-params:
-   term: "Fall 2020"
-output: 
-   html_document: default
-   pdf_document: default
----
+
 
 # Working with the New York Times COVID-19 Data
 
